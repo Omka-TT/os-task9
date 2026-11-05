@@ -1,0 +1,9 @@
+подход           отказов  внешняя фр.  внутренняя
+first                 50         0.78           0
+best                  45         0.73           0
+worst                 61         0.87           0
+first +merge          33         0.47           0
+best +merge           32         0.36           0
+worst +merge          38         0.52           0
+buddy                 38         0.36         175
+график: compare.png
